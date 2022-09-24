@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/near-dapp-marketplace/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/near-dapp-marketplace/static/js/main.c0fb1c67.chunk.js",
+    "main.js.map": "/near-dapp-marketplace/static/js/main.c0fb1c67.chunk.js.map",
+    "runtime-main.js": "/near-dapp-marketplace/static/js/runtime-main.82b5759e.js",
+    "runtime-main.js.map": "/near-dapp-marketplace/static/js/runtime-main.82b5759e.js.map",
+    "static/css/2.714a339d.chunk.css": "/near-dapp-marketplace/static/css/2.714a339d.chunk.css",
+    "static/js/2.2f552ccd.chunk.js": "/near-dapp-marketplace/static/js/2.2f552ccd.chunk.js",
+    "static/js/2.2f552ccd.chunk.js.map": "/near-dapp-marketplace/static/js/2.2f552ccd.chunk.js.map",
+    "static/js/3.1b0ee533.chunk.js": "/near-dapp-marketplace/static/js/3.1b0ee533.chunk.js",
+    "static/js/3.1b0ee533.chunk.js.map": "/near-dapp-marketplace/static/js/3.1b0ee533.chunk.js.map",
+    "index.html": "/near-dapp-marketplace/index.html",
+    "static/css/2.714a339d.chunk.css.map": "/near-dapp-marketplace/static/css/2.714a339d.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/near-dapp-marketplace/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.2f552ccd.chunk.js.LICENSE.txt": "/near-dapp-marketplace/static/js/2.2f552ccd.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/near-dapp-marketplace/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpeg": "/near-dapp-marketplace/static/media/sandwich.2d312449.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b5759e.js",
+    "static/css/2.714a339d.chunk.css",
+    "static/js/2.2f552ccd.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.c0fb1c67.chunk.js"
+  ]
+}
